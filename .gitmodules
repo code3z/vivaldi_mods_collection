@@ -1,0 +1,3 @@
+[submodule "mods/lonm/VivaldiMods"]
+	path = mods/lonm/VivaldiMods
+	url = https://github.com/LonMcGregor/VivaldiMods.git
