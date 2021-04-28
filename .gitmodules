@@ -1,3 +1,9 @@
 [submodule "mods/lonm/VivaldiMods"]
 	path = mods/lonm/VivaldiMods
 	url = https://github.com/LonMcGregor/VivaldiMods.git
+[submodule "mods/luetage.luetage"]
+	path = mods/luetage.luetage
+	url = https://github.com/luetage/vivaldi_modding.git
+[submodule "mods/sjudemim"]
+	path = mods/sjudemim
+	url = https://github.com/sjudenim/Mods-for-Vivaldi.git
