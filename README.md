@@ -2,6 +2,10 @@
 
 IMPORTANT: These mods are pulled from outside sources and you should check for security issues before using.
 
+To download, git clone recursively:
+```git clone https://github.com/code3z/vivaldi_mods_collection.git --recursive```
+
+
 More details will be provided.
 Mods are collected from Git Repositories on github or other platforms such as gitlab.
 Mods are installed via LonMcGregor's custom.py script.
