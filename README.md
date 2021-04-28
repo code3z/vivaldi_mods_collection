@@ -1,5 +1,7 @@
 # The first-ever community collection of mods for the Vivaldi Web Browser
 
+IMPORTANT: These mods are pulled from outside sources and you should check for security issues before using.
+
 More details will be provided.
 Mods are collected from Git Repositories on github or other platforms such as gitlab.
 Mods are installed via LonMcGregor's custom.py script.
