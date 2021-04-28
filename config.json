@@ -1,0 +1,25 @@
+{
+    "application_path": "/opt/vivaldi",
+    "mods": [
+        "lonm/VivaldiMods/mods/advancedPanels.js",
+        "lonm/VivaldiMods/mods/advancedPanels.css",
+        "lonm/VivaldiMods/mods/autoSaveSessions.js",
+        "luetage/vivaldi_modding/import-export_themes.js",
+        "luetage/vivaldi_modding/backup-search-engines.js",
+        "lonm/VivaldiMods/mods/panel_actions.js",
+        "custom.js"
+
+      ],
+    "mod_dependencies": [
+    ],
+    "page_actions": [
+        "Image_Chequerboard.css",
+        "gdpr.js",
+        "abbr.css",
+        "Page_Guide_Lines.js",
+        "Wide_Video.css",
+        "pikachu.css"
+    ],
+    "splash_fg": "#ee77d9",
+    "splash_bg": "#444"
+}
