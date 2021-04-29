@@ -7,3 +7,6 @@
 [submodule "mods/sjudemim"]
 	path = mods/sjudemim
 	url = https://github.com/sjudenim/Mods-for-Vivaldi.git
+[submodule "mods/lonm.LonMcGregor"]
+	path = mods/lonm.LonMcGregor
+	url = https://github.com/LonMcGregor/VivaldiMods.git
