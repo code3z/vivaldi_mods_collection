@@ -3,7 +3,7 @@
 IMPORTANT: These mods are pulled from outside sources and you should check for security issues before using.
 
 To download, git clone recursively:
-```git clone https://github.com/code3z/vivaldi_mods_collection.git --recursive```
+```git clone https://github.com/code3z/vmods_container.git --recursive```
 
 
 More details will be provided.
