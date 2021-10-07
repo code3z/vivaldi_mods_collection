@@ -1,3 +1,5 @@
+Update: Inactive, I don't really have time for this right now.
+
 # Collection of mods for the Vivaldi Web Browser pulled from many sources
 
 IMPORTANT: These mods are pulled from outside sources and you should check for security issues before using.
